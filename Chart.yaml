@@ -1,0 +1,17 @@
+name: cloudflared
+maintainers:
+  - name: Adevill
+apiVersion: v2
+appVersion: latest
+version: 1.0.0
+description: Adevill Cloudflared Helm Chart
+home: https://github.com/Adevill20/cloudflared/tree/main/
+icon: https://cf-assets.www.cloudflare.com/slt3lc6tev37/7bIgGp4hk4SFO0o3SBbOKJ/b48185dcf20c579960afad879b25ea11/CF_logo_stacked_blktype.jpg?_gl=1*7dn2rg*_ga*NjY4MTEzNzY4LjE3MDU2MDA4ODY.*_ga_SQCRB0TXZW*MTcwNzU2NjE4OS43LjEuMTcwNzU2NjIxOC4wLjAuMA..
+keywords:
+  - kubernetes
+  - cloudflare
+  - cloudflared
+  - argo
+  - tunnel
+sources:
+  - https://github.com/cloudflare/cloudflared
